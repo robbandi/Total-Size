@@ -2,6 +2,8 @@
 
 Total Size is a Finder Sync extension for macOS that enhances your experience with Finder by providing quick and easy access to the total file size of your selected files and folders.
 
+https://github.com/robbandi/finder-sync-totalsize/assets/57363833/dc8e1ce4-eab9-4e67-bcf0-ed810bd2f49f
+
 ## Features
 - **Show Total Size**: Right-click on selected files or folders to see their total size.
 - **Detailed Size Breakdown**: Get a detailed breakdown of the size of each selected item.
