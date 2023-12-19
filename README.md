@@ -22,20 +22,13 @@ To install Total Size, follow these steps:
 Total Size is compatible with macOS version 10.XX and later.
 
 ## Support
-If you encounter any issues or have questions, please contact support at [support@example.com](mailto:support@example.com).
-
-## Contributing
-Contributions to Total Size are welcome. Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+If you encounter any issues or have questions, please contact support at [me@robinn.io](mailto:me@robinn.io).
 
 ## License
 Total Size is released under the [MIT License](LICENSE).
-
-## Acknowledgements
-- Special thanks to all [contributors](https://github.com/yourusername/finder-sy/contributors) who have helped with the development of Total Size.
-- Total Size uses some open-source libraries. For a full list, see the [dependencies](DEPENDENCIES.md).
 
 ## Disclaimer
 This extension is not affiliated with Apple Inc. Finder, macOS, and Apple are trademarks of Apple Inc.
 
 ## About
-Total Size was created by [Your Name](https://yourwebsite.com) to improve the macOS Finder experience. For more information, visit our [website](https://yourwebsite.com).
+Total Size was created by [Robin Naghshbandi](https://robinn.io) to improve the macOS Finder experience.
