@@ -12,7 +12,7 @@ https://github.com/robbandi/finder-sync-totalsize/assets/57363833/dc8e1ce4-eab9-
 ## Installation
 To install Total Size, follow these steps:
 
-1. Download the latest version from [GitHub releases](#).
+1. Download the latest version from [GitHub releases](https://github.com/robbandi/finder-sync-totalsize/releases).
 2. Open the downloaded file and follow the installation instructions.
 3. Once installed, enable Total Size in System Preferences under Extensions.
 
